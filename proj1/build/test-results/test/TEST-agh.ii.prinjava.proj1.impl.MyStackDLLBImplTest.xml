@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.proj1.impl.MyStackDLLBImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-21T23:32:58" hostname="PCALEX" time="0.026">
+  <properties/>
+  <testcase name="pop()" classname="agh.ii.prinjava.proj1.impl.MyStackDLLBImplTest" time="0.024"/>
+  <testcase name="push()" classname="agh.ii.prinjava.proj1.impl.MyStackDLLBImplTest" time="0.001"/>
+  <system-out><![CDATA[end
+end
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
